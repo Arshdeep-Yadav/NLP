@@ -1,4 +1,4 @@
-!pip install nltk
+pip install nltk
 import streamlit as st
 import nltk
 from nltk.tokenize import word_tokenize, sent_tokenize
